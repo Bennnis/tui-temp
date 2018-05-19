@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vtui": "^1.0.4",
+    "vtui": "^1.0.5",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
